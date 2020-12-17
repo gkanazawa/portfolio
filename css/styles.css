@@ -89,7 +89,7 @@ hr {
 .header-background {
   width: 100%;
   height: 350px;
-  background: url('D:/MS Degree/GEOG 572 Graphic Design in Cartography/Lab 4/CSS - Portfolio Site/assets/landingbackgroundOP50.jpg') no-repeat;
+  background: url('assets/landingbackgroundOP50.jpg') no-repeat;
   background-size: cover;
 }
 
